@@ -1,6 +1,6 @@
 ﻿Imports System.Data.SqlClient
 Public Class frmLogin
-
+    'ps01843 sua code
     Private Sub btnLogin_Click(sender As Object, e As EventArgs) Handles btnLogin.Click
 
         Dim chuoiketnoi As String = "workstation id=PS01843.mssql.somee.com;packet size=4096;user id=thangnh;pwd=P@ssw0rd;data source=PS01843.mssql.somee.com;persist security info=False;initial catalog=PS01843"
