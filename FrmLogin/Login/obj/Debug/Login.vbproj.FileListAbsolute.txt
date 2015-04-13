@@ -1,0 +1,15 @@
+C:\Users\HThang\Documents\Login\FrmLogin\Login\bin\Debug\Login.exe.config
+C:\Users\HThang\Documents\Login\FrmLogin\Login\bin\Debug\Login.exe
+C:\Users\HThang\Documents\Login\FrmLogin\Login\bin\Debug\Login.pdb
+C:\Users\HThang\Documents\Login\FrmLogin\Login\bin\Debug\Login.xml
+C:\Users\HThang\Documents\Login\FrmLogin\Login\obj\Debug\Login.frmLogin.resources
+C:\Users\HThang\Documents\Login\FrmLogin\Login\obj\Debug\Login.frmXem.resources
+C:\Users\HThang\Documents\Login\FrmLogin\Login\obj\Debug\Login.Resources.resources
+C:\Users\HThang\Documents\Login\FrmLogin\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+C:\Users\HThang\Documents\Login\FrmLogin\Login\obj\Debug\Login.exe
+C:\Users\HThang\Documents\Login\FrmLogin\Login\obj\Debug\Login.xml
+C:\Users\HThang\Documents\Login\FrmLogin\Login\obj\Debug\Login.pdb
+C:\Users\HThang\Documents\Login\FrmLogin\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+C:\Users\HThang\Documents\Login\FrmLogin\Login\obj\Debug\Login.frmInformation.resources
+C:\Users\HThang\Documents\Login\FrmLogin\Login\obj\Debug\Login.frmMain.resources
+C:\Users\HThang\Documents\Login\FrmLogin\Login\obj\Debug\Login.frmSanPham.resources
